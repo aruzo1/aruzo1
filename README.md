@@ -23,5 +23,5 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aruzo1&show_icons=true&hide_border=false&title_color=0066FF&icon_color=0066FF&bg_color=fff&text_color=000&border_color=0066FF" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aruzo1&show_icons=true&hide_border=false&title_color=0066FF&icon_color=0066FF&bg_color=000f26&text_color=fff&border_color=0066FF" />
 
